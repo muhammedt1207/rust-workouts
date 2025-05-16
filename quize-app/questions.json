@@ -1,0 +1,28 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["a) Paris", "b) Rome", "c) Berlin", "d) Madrid"],
+      "answer": "a"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["a) Earth", "b) Mars", "c) Jupiter", "d) Venus"],
+      "answer": "b"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["a) Isaac Newton", "b) Nikola Tesla", "c) Albert Einstein", "d) Galileo"],
+      "answer": "c"
+    },
+    {
+      "question": "Which language is used for web apps?",
+      "options": ["a) Python", "b) Rust", "c) HTML", "d) C++"],
+      "answer": "c"
+    },
+    {
+      "question": "Rust was created by?",
+      "options": ["a) Google", "b) Mozilla", "c) Microsoft", "d) Apple"],
+      "answer": "b"
+    }
+  ]
+  
